@@ -3,7 +3,7 @@
 @import "clock.css";
 @import "status_plate.css";
 @import "dots_lines.css";
-
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&display=swap');
 @font-face{
     font-family: "Caveat";
     src: url('fonts/Caveat-Regular.ttf');
